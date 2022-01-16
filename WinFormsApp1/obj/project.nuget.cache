@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5FRbKVOjUYk5I+UklJKUxk5quV2eSnDD55InY3XV9UyLNsCZ5/zJEdVWl4P9rRgl9aho1zvzPF1mJCCNB+PuuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\archi\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\archi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
